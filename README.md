@@ -1,13 +1,4 @@
-<h1 align="center">Hi there! 👋 <img src="https://img2.freepng.es/20200217/gjg/transparent-cartoon-sitting-gesture-grow-with-freakpixels5e61bd7bc2d6b7.6497861715834638037981.jpg" width="50">
--Full Stack Developer 🖱️ 💻</h1>
-```js
-const Ricardo = {
-  pronouns: "he" | "him",
-  passions:[Web Development, Music, Learn],
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Next, Node, Express, Sequelize, Postgres],
-}
-```
+<h1 align="center">Hi 👋, I'm Ricardo Jorge</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 I love watching developer news and videos, conferences, holding workshops, and sharing knowledge. Always trying to contribute something to society and instilling values ​​and knowledge to everyone who follows this branch of programming. The best workplace is the one that allows me to continue growing constantly.
