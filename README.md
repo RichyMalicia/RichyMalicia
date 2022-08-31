@@ -18,7 +18,9 @@ I love watching developer news and videos, conferences, holding workshops, and s
 
 - 🌱 I’m currently learning **TypeScript and ReactNative**
 
-- 📫 How to reach me **rdjorge@live.com.ar**
+You can find me 🌎:
+- [Linkedin](https://www.linkedin.com/in/rdjorge/)
+- [Email](rdjorge@live.com.ar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
