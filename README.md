@@ -31,25 +31,6 @@ You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/rdjorge/)
 - [Email](rdjorge@live.com.ar)
 
-Languages and Tools:
-
-    React
-    Redux toolkit
-    NodeJS
-    JavaScript
-    Stripe
-    Cloudinary
-    Heroku
-    Vercel
-    Bootstrap    
-    React-Router
-    Tailwind
-    Styled-Components
-    CSS
-    MySQL
-    Postgres    
-    Figma
-    Postman
 
        
 <h3 align="left">Languages and Tools:</h3>
@@ -58,8 +39,6 @@ Languages and Tools:
 <li>Redux toolkit</>
 <li>NodeJS</>
 <li>JavaScript</>
-<li>JAVA</>
 <li>TypeScript</>
 <li>Stripe</>
 <li>Cloudinary</>
-<li>Jest</>
