@@ -28,7 +28,7 @@ posibilidad de crear tus propias razas con sus respectivos temperaentos.
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/rdjorge/)
 - [Email](rdjorge@live.com.ar)
-- 
+
 Languages and Tools:
 
     React
