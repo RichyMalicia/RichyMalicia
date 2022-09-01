@@ -2,8 +2,6 @@
 <h3 align="center">Soy un apasionado por la ciencia y la tecnología. Una de mis mayores motivaciones es aprender. Así me prepare autónomamente leyendo libros y viendo tutoriales que iba encontrando. Me encanta ver noticias y videos de desarrolladores, conferencias, realizar talleres y compartir conocimiento. Siempre tratando de aportar algo a la sociedad e inculcando valores y conocimiento a todo aquel que sigue esta rama de la programación. El mejor sitio de trabajo es aquel que me permita seguir creciendo constantemente.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alextrdev&label=Profile%20views&color=0e75b6&style=flat" alt="alextrdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichyMalicia" alt="RichyMalicia" /></a> </p>
-
 - 🔭 Mi ultima experiencia laboral fue desarrollar un e-commerce [K-Nows](https://e-knows.herokuapp.com/)
 - 🔭 Mi ultima experiencia laboral fue desarrollar una aplicación web E-Commerce dedicada a la venta online de
 libros físicos y electrónicos.
