@@ -1,17 +1,39 @@
-<h1 align="center">Hi 👋, I'm Ricardo Jorge</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+Hola que tal!! 👋, Yo soy Ricardo Jorge
+Soy un apasionado por la ciencia y la tecnología. Una de mis mayores motivaciones es aprender. Así me prepare autónomamente leyendo libros y viendo tutoriales que iba encontrando. Me encanta ver noticias y videos de desarrolladores, conferencias, realizar talleres y compartir conocimiento. Siempre tratando de aportar algo a la sociedad e inculcando valores y conocimiento a todo aquel que sigue esta rama de la programación. El mejor sitio de trabajo es aquel que me permita seguir creciendo constantemente.
 
-I love watching developer news and videos, conferences, holding workshops, and sharing knowledge. Always trying to contribute something to society and instilling values ​​and knowledge to everyone who follows this branch of programming. The best workplace is the one that allows me to continue growing constantly.
 
-- 🔭 My last work experience was developing an E-Commerce web application dedicated to the online sale of physical and electronic books.
+    🔭 Mi ultima experiencia laboral fue desarrollar una aplicación web E-Commerce dedicada a la venta online de libros físicos y electrónicos. Cuenta con un diseño completamente adaptable a cualquier dispositivo para una fácil navegación y buena experiencia de usuario. También cuenta con un dashboard y panel de administrador con todas sus funcionalidades al igual que un panel de perfil de usuario. K-Nows
 
-- 🌱 I’m currently learning **TypeScript and ReactNative**
+    🔭[Academic] - Full Stack Developer - Dogs - Web App junio de 2022 - julio de 2022 (1 mes) Argentina Henry Dogs es una aplicación web donde se muestra diversas razas de perros las cuales puedes agregar a favoritos como usuario y también tienes la posibilidad de crear tus propias razas con sus respectivos temperamentos.
+
+    🌱 Actualmente estoy aprendiendo nuevas tecnologías e ingles cursos en linea, grupos de discord y aplicación web
+
+    ⚡ Tengo experiencia en desarrollador full stack en desarrollo web.
+
+    📫 Como contactarme rdjorge@live.com.ar
 
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/rdjorge/)
 - [Email](rdjorge@live.com.ar)
+- 
+Languages and Tools:
 
+    React
+    Redux toolkit
+    NodeJS
+    JavaScript
+    Stripe
+    Cloudinary
+    Heroku
+    Vercel
+    Bootstrap    
+    React-Router
+    Tailwind
+    Styled-Components
+    CSS
+    MySQL
+    Postgres    
+    Figma
+    Postman
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
+        android arduino babel bash css3 express figma git heroku html5 java javascript mssql mysql nodejs photoshop php postgresql postman react redux sass sqlite tailwind typescript webpack 
