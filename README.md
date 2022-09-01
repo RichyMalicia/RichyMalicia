@@ -25,6 +25,8 @@ posibilidad de crear tus propias razas con sus respectivos temperaentos.
 - 🔭 Experiencia en trabajo individual [Henry-Dogs](Próximamente...)
 
 - ⚡ Tengo experiencia en **desarrollador frontend full stack en desarrollo web.**
+
+
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/rdjorge/)
 - [Email](rdjorge@live.com.ar)
