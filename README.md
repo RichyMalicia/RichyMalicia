@@ -33,6 +33,7 @@ You can find me 🌎:
        
 <h3 align="left">Languages and Tools:</h3>
 <ul>
+<li>PHP</>
 <li>React</>
 <li>Redux toolkit</>
 <li>NodeJS</>
@@ -40,3 +41,4 @@ You can find me 🌎:
 <li>TypeScript</>
 <li>Stripe</>
 <li>Cloudinary</>
+
